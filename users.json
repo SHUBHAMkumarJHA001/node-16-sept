@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Clo",
+        "last_name": "Episcopi",
+        "email": "cepiscopi0@shop-pro.jp",
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "first_name": "Margette",
+        "last_name": "Impey",
+        "email": "mimpey1@omniture.com",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Maxy",
+        "last_name": "Lewtey",
+        "email": "mlewtey2@pcworld.com",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Arvin",
+        "last_name": "Piesold",
+        "email": "apiesold3@blogger.com",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Shantee",
+        "last_name": "Czadla",
+        "email": "sczadla4@prweb.com",
+        "gender": "Agender"
+    },
+    {
+        "id": 6,
+        "first_name": "Selene",
+        "last_name": "Isakovic",
+        "email": "sisakovic5@ox.ac.uk",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Leonerd",
+        "last_name": "Broomer",
+        "email": "lbroomer6@admin.ch",
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "first_name": "Barrie",
+        "last_name": "Bulger",
+        "email": "bbulger7@cdc.gov",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Piotr",
+        "last_name": "Mauditt",
+        "email": "pmauditt8@mashable.com",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Derron",
+        "last_name": "Convery",
+        "email": "dconvery9@vk.com",
+        "gender": "Male"
+    }
+]
